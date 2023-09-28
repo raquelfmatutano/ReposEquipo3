@@ -63,5 +63,4 @@ if __name__ == "__main__":
     # se llama a la función bin2hex() para hacer la conversión
     numero_hexadecimal = bin2hex(numero_binario)
 
-    # Muestra por pantalla el resultado.
-    print("El numero binario " + numero_binario + " es " + numero_hexadecimal + " en hexadecimal.")
+ 
